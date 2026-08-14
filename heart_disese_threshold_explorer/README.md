@@ -114,14 +114,13 @@ heart_disease_threshold_explorer/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-└── data/
-    ├── test_predictions.csv
-    └── heart_for_explorer.csv
+├── test_predictions.csv
+└── heart_for_explorer.csv
 ```
 
 ## Run Locally
 
-From the **root folder of the parent GitHub repository**, run:
+From the root folder of the parent GitHub repository, enter the project folder and run:
 
 ```bash
 cd heart_disease_threshold_explorer
@@ -137,22 +136,22 @@ On Windows PowerShell, activate the virtual environment with:
 .venv\Scripts\Activate.ps1
 ```
 
-Streamlit will provide a local URL, normally:
+Streamlit will provide a local URL, usually:
 
 ```text
 http://localhost:8501
 ```
 
-Open it in a browser if it does not open automatically.
+Open the displayed URL in a browser if the application does not open automatically.
 
 ## Data Files
 
-The application uses two data files:
+The application uses two CSV files stored in the same folder as `app.py`:
 
 | File | Purpose |
 |---|---|
-| `data/test_predictions.csv` | Held-out test-set observed labels and predicted probabilities. It is used for threshold evaluation, sensitivity, specificity, confusion-matrix counts, and clinical utility. |
-| `data/heart_for_explorer.csv` | The full cleaned dataset. It is used exclusively for the Predictor Explorer charts. |
+| `test_predictions.csv` | Held-out test-set observed labels and predicted probabilities. It is used for threshold evaluation, sensitivity, specificity, confusion-matrix counts, and clinical utility calculations. |
+| `heart_for_explorer.csv` | The full cleaned dataset. It is used exclusively for Predictor Explorer bar charts and boxplots. |
 
 ## Data Source
 
