@@ -332,7 +332,7 @@ However, this project is not intended to establish actual clinical or societal c
 
 ---
 
-## 9. Interactive Python + Streamlit Application
+## 9. Interactive Python + Streamlit Application: Heart Disease Threshold Explorer
 
 To extend the statistical analysis into an interactive decision-making framework, a small application was developed using **Python and Streamlit**.
 
@@ -467,3 +467,8 @@ I used AI only as a coding tool when writing and debugging code. I acknowledge t
 Through this project, I gained a deeper understanding that statistical tools can do more than capture patterns through mathematical models; they are also closely connected to decision-making, much like the role of economic considerations in determining costs, benefits, and trade-offs.
 
 I hope to further explore methods for optimizing statistical models and the mathematical theories underlying them, while also strengthening my understanding of the domain-specific knowledge behind the data—for example, economic costs and the biological and biochemical meaning of clinical variables. I believe that combining stronger mathematical foundations with domain knowledge will allow me to better understand, evaluate, and optimize statistical and machine-learning models.
+
+## Author
+
+Joanna Zou  
+[GitHub Profile](https://github.com/joannaazou)
