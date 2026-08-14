@@ -88,7 +88,7 @@ Regression       Regression
    └───────┬───────┘
            ↓
      Model Comparison
-(AIC, CV-5fold, ROC&AUC on test set)
+(AIC, CV-5fold, ROC&AUC on prediction set)
            ↓
     Final Stepwise Model
            ↓
