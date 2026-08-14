@@ -468,6 +468,8 @@ Through this project, I gained a deeper understanding that statistical tools can
 
 I hope to further explore methods for optimizing statistical models and the mathematical theories underlying them, while also strengthening my understanding of the domain-specific knowledge behind the data—for example, economic costs and the biological and biochemical meaning of clinical variables. I believe that combining stronger mathematical foundations with domain knowledge will allow me to better understand, evaluate, and optimize statistical and machine-learning models.
 
+---
+
 ## Author
 
 Joanna Zou  
